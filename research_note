@@ -1,0 +1,7 @@
+84.99를 넘어야하는뎅 ......
+
+bs=5000 lr=0.001 => epoch=? train_accr=0.295 val_accr=0.4 test_accr=81.14
+bs=5000 lr=0.002 => epoch=26 train_accr=0.275 val_accr=0.423 test_accr=81.18
+bs=5000 lr=0.002 => epoch=17 train_accr=0.348 val_accr=0.397 test_accr=81.66
+
+일단 텍스트 정제 완료
